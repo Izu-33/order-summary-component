@@ -1,5 +1,7 @@
 # Frontend Mentor - Order summary card
 
+## Link to my [completed challenge](https://izu-33.github.io/order-summary-component/)
+
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
